@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kimcyhoo
-- 👀 I’m interested in coding using c++.
+- 👀 I’m interested in coding to use c++.
 - 🌱 I’m currently learning c++ at the school.
 - 💞️ I’m looking to collaborate on super duper code master.
 - 📫 How to reach me ...you can reach me at this URL (https://github.com/kimcyhoo)
